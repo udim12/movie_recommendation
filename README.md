@@ -5,4 +5,4 @@ The porpuse of this project is to cluster the website's users into clusters movi
 
 The project is divived into 2 parts:
 - crawling the website's user's information about the movies they wathced and rated.
-- antlyzing the data and prepare it for unspervised machine learning modeling.
+- anylizing the data and prepare it for unspervised machine learning modeling.
